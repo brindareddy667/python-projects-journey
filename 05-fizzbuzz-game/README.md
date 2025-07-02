@@ -27,5 +27,8 @@ This is a fun interactive version of the classic FizzBuzz problem. Instead of pr
 - Simple and engaging logic to test your FizzBuzz knowledge!
 
 ---
-
+## ▶️ How to Run
+1. Open the file `product_quiz.py`
+2. Run it using any Python IDE or Google Colab
+3. Try to get the highest score by multiplying correctly!
 
