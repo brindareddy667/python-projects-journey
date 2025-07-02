@@ -12,4 +12,7 @@ Print numbers from 1 to `n` with the following rules:
 ## 📥 Input
 - The user is asked to enter a number `n` which defines the range from 1 to `n`.
 
-
+## ▶️ How to Run
+1. Open the file `product_quiz.py`
+2. Run it using any Python IDE or Google Colab
+3. Try to get the highest score by multiplying correctly!
