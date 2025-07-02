@@ -14,4 +14,4 @@ This is a basic calculator built using Python. It allows the user to perform ari
 3. The user is then asked if they want to continue using the result in further calculations.
 4. The process continues until the user inputs `'n'`.
 
-## 🧠 Sample Interaction
+
