@@ -14,4 +14,7 @@ This is a basic calculator built using Python. It allows the user to perform ari
 3. The user is then asked if they want to continue using the result in further calculations.
 4. The process continues until the user inputs `'n'`.
 
-
+## ▶️ How to Run
+1. Open the file `product_quiz.py`
+2. Run it using any Python IDE or Google Colab
+3. Try to get the highest score by multiplying correctly!
