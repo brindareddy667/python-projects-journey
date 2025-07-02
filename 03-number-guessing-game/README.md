@@ -17,3 +17,7 @@ A fun and interactive Python game where the player tries to guess a randomly sel
 5. If all attempts are used, the correct number is revealed.
 6. The player is asked whether they want to play again.
 
+## ▶️ How to Run
+1. Open the file `product_quiz.py`
+2. Run it using any Python IDE or Google Colab
+3. Try to get the highest score by multiplying correctly!
