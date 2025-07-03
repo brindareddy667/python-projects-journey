@@ -21,7 +21,6 @@ for i in range(1, 101):
 
     if enter==a:
       score+=1
-      continue
     else:
       print(f"❌Oops! Wrong answer. The answer was {a}")
       break
